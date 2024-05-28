@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="hogar de las palabras">
+    <meta name="etiqueta 1" content="width=device-width, initial-scale=1.0">
+    <title>Hogar de las palabras</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Georgia, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: brown;
+            color: white;
+            text-align: center;
+            padding: 18px;
+            position: relative;
+        }
+
+        nav {
+            background-color: #333;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 14px 20px;
+            display: inline-block;
+        }
+
+        section {
+            float: left;
+            width: 70%;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+
+        aside {
+            float: right;
+            width: 30%;
+            padding: 20px;
+            background-color: #e9e9e9;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+
+        footer {
+            clear: both;
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: relative;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Hogar de las palabras.
+    </header>
+    <nav>
+        <a href="#uno">Inicio</a>
+        <a href="#mas info">Mas informacion</a>
+        <a href="https://forms.gle/6R5XJzdGkQkNAp9y7">Registrarse</a>
+        <a href="#">Clases gratuitas</a>
+    </nav>
+    <section>
+    <h1 id="uno"> Inicio:</h1>
+     <h3 style="georgia: justify;"><code>Se sabe bien que el camino para los escritores novatos siempre es dificil, y mucho mas el poder abrirse espacio entre el publico para dar a conocer sus historias. Asi que, considero que es correcto que exista una ayuda para estos escritores novatos, de tal manera en la que puedan mejorar su escritura, y asi, llegar a cumplir lo que tanto anhelan.</code></h3>
+     <h3><p class="explicacion del proyecto Hogar"><code>Aqui podra encontrar<strong> guias</strong> para llevar al cabo su novela, lectores beta para sus proyectos he incluso guias para crear <span class="info">portadas desde cero.</span></code>&nbsp;</p></h3>
+    
+    <p class="explicacion del proyecto Hogar"><span style="color: #000080; background-color: #ffff99;">Ademas podra encontrar mucha informacion util para estructurar su novela desde cero, y pasar las ideas sencillas, a un capitulo del libro esperado.</span></p>
+    <p class="explicacion del proyecto Hogar"><span style="color: #000080;"><span style="color: #000000;">Tambien podra encontrar recomendaciones de</span>&nbsp;<a title="Libros." href="https://www.planetadelibros.com/blog/actualidad/15/nuestros-tops/11/articulo/15-clasicos-de-la-literatura-que-todo-gran-lector-debe-leer/386" target="_blank">Libros clasicos que pueden ser de su ayuda para ver el uso correcto de las palabras descriptivos.</a>&nbsp;</span></p>
+    <h3>Como registrarse:</h3>
+<table border=""><caption>Informacion que necesita completar para la solicitud de las clases gratuitas</caption>
+    <thead>
+    <tr>
+    <th><span style="background-color: #ffff99;">Nombre</span></th>
+    <th><span style="background-color: #ffcc99;">Edad</span></th>
+    <th><span style="background-color: #ccffcc;">Tema que desea ver en clase</span></th>
+        </tr>
+</thead>
+<tbody>
+<tr>
+<td>....</td>
+<th>..</th>
+<th>.... ... ..</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<style>
+    button{
+        background-color:yellow;
+        border:none;
+        border-radius:5px;
+        color:white;
+    }
+</style>
+<body>
+    <button><a href="https://forms.gle/6R5XJzdGkQkNAp9y7">Formulario para las clases aqui.</a></button>
+</body>
+    <p>Para llenar en "Tema que desee ver en clase" puede poner los siguientes<strong> ejemplos:</strong></p>
+<ul> 
+<style> 
+    #li {
+        font-size: 1.3em;
+        font-family:Arial;
+        background-color:green;
+    }
+    #Tn {
+        font-size: 1.3em;
+        font-family:Georgia;
+        background-color:blue;
+    }
+    #ma {
+        font:1.3em;
+        font-family:Arial;
+        color:blue;
+    }
+    #cdp {
+        font:1.3em;
+        font-family:Georgia;
+        color:blue;
+    }
+</style>
+
+    <li><a href ="https://youtu.be/xzg22lDrw_E?si=t-E8UWEBM3IpL8pX">Descripciones efectivas</a></li>
+    <li><a href ="https://youtu.be/VVw2oXOjlHo?si=ZlD-BckYQxSVNaXO">Tiempos narrativos</a></li>
+    <li><a href ="https://youtu.be/13fqoWLj8z8?si=agE-9nbHJq8QRrKR">Maquetacion</a></li>
+    <li><a href ="https://youtu.be/IswMb1YQ5bU?si=jBH_uoH_loBWS2n5">Creacion de personajes</a></li>
+</ul>
+<p> Esperamos que pueda sacarle todo el provecho posible a esta plataforma. </p>
+
+<img src="https://i.pinimg.com/564x/c9/ee/3e/c9ee3ee28211bd2ec29c1738e0a2605b.jpg" class="img-thumbnail">
+
+    </section>
+
+    <aside>
+        <h3> Nota:</h3>
+        Como esta plataforma brinda ayuda gratuita, puede mostrar sus agradecimientos o apoyo a sus respectivos creadores por medio de emails o donaciones de dinero, si desea la informacion puede encontrarla en "mas informacion". 
+        <p>Si necesita ayuda adicional para el manejo de este sitio web, puede llamar a esta linea disponible: +536 97 865 574 </p>
+        <p>Agradecemos que usted haga uso correcto de esta plataforma.</p>
+         <p>
+    <style> 
+        img {
+                margin:4px 6px 10px -3px;
+                border: 2px outset black;
+                padding:6px;
+        } 
+    </style>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/creatures/Hopper-Jumping.png"/>
+<p>&nbsp;</p> 
+
+<div class="#Tn" style="width: 18rem;">
+    <h5 class="card-title">Autopublicar?</h5>
+    <p class="card-text">Puede encontrar informacion sobre editoriales confiables y disponibles en el siguiente enlace:</p>
+    <a href="https://www.podiprint.com/distribucion-internacional-libros/5-mejores-distribuidores-libros/">editoriales.</a>
+  </div>
+ 
+    </aside>
+    <footer>
+    <h4 id="mas info">Mas informacion:</h4>
+    <footer>Esta pagina a sido creada con el apoyo de nuestros profesores y guias en este camino de la escritura, la docente Mayra y la estudiante Fiorella Sarai.</footer>
+    <footer>Si desea comunicarse directamente con los creadores puede escribir a este correo:</footer>
+    <footer><a href="mailto:grandafiorella2@gmail.com">grandafiorella2@gmail.com</a>&nbsp;</footer>
+    <footer>Puede comunicarse a este numero: +536 96 0425 356</footer>
+    <footer>Proyecto creado bajo la institucion: skolmi.</footer>
+</footer>
+</body>
+</html>
